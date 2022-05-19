@@ -1,2 +1,2 @@
-export const API_KEY = "AIzaSyC7XOb8pWM6-T0--Ivu-bZleBs4cuCRZXk";
+export const API_KEY = "YOUR_GOOGLE_API_KEY";
 export default API_KEY;
